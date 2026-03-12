@@ -16,4 +16,4 @@ automation workflows, and AWS infrastructure.
 🔹 Identity Verification System – Full-stack verification platform using React and ASP.NET  
 🔹 Homelab Infrastructure – Self-hosted Docker services and networking experimentation
 
-Portfolio: [quinnprisbrey.dev](quinnprisbrey.dev)
+Portfolio: [quinnprisbrey.dev](https://quinnprisbrey.dev)
