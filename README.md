@@ -1,4 +1,4 @@
-# Hi, I'm Quinn 👋
+# Hi, I'm Quinn
 
 Full-Stack Developer focused on building production systems, payment integrations,
 and cloud infrastructure.
