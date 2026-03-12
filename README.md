@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Quinn Prisbrey</h1>
+<h1 align="center">Hi I'm Quinn Prisbrey</h1>
 <h3 align="center">Full-Stack Developer | AWS | Payment Systems | Automation</h3>
 
 <p align="center">
