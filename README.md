@@ -10,7 +10,7 @@ Building production systems, payment integrations, and cloud infrastructure.
 ## 🚀 About Me
 
 - 💻 Full-stack developer working with **React, Node.js, and AWS**
-- 🏗 Currently building a **merchant payment platform**
+- 🏗 Currently building a **prescription discount platform**
 - ⚙️ Passionate about **automation, infrastructure, and scalable systems**
 - 🧪 Running a **homelab for Docker, networking, and self-hosted services**
 - 🎯 Goal: Become a **senior systems / platform engineer**
