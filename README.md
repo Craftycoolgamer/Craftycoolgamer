@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Quinn 👋
 
-<!--
-**Craftycoolgamer/Craftycoolgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building production systems, payment integrations,
+and cloud infrastructure.
 
-Here are some ideas to get you started:
+Currently building and maintaining a merchant platform with payment processing,
+automation workflows, and AWS infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React, TypeScript
+- Backend: Node.js, PHP, Python
+- Infrastructure: AWS (EC2, S3, RDS), Docker, Linux
+- Databases: MySQL, PostgreSQL, MongoDB
+
+## Featured Projects
+🔹 Identity Verification System – Full-stack verification platform using React and ASP.NET  
+🔹 Homelab Infrastructure – Self-hosted Docker services and networking experimentation
+
+Portfolio: quinnprisbrey.dev
